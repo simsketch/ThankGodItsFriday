@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Local Market
 ============
 
@@ -8,3 +9,7 @@ Local Market is an open source app powered by Meteor and made by [Percolate Stud
   - Cordova integration to use device phone and GPS
   - Mobile UI & UX
   
+=======
+# ThankGodItsFriday
+Thank God It's Friday! Please visit http://ThankGodItsFriday.today for more details
+>>>>>>> 9d1b7a1b3606c00e251dd49134f634f63f538bdf
