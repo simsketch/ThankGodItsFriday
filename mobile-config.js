@@ -1,9 +1,9 @@
 App.info({
-  name: 'Local Market',
-  description: 'A recipe sharing app made in Meteor.',
-  author: 'Percolate Studio Team',
-  email: 'us@percolatestudio.com',
-  website: 'http://percolatestudio.com',
+  name: 'TGIF',
+  description: 'Find out what is going on tonight.',
+  author: 'Adimpression LLC',
+  email: 'hello@adimpression.mobi',
+  website: 'http://adimpression.mobi',
   version: '0.0.1'
 });
 
@@ -44,4 +44,3 @@ App.launchScreens({
 
 App.setPreference('StatusBarOverlaysWebView', 'false');
 App.setPreference('StatusBarBackgroundColor', '#000000');
-
